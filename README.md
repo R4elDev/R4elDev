@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/raelzeera457_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%239400D3?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/raelzeera457/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%239400D3?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href=https://www.linkedin.com/in/israel-junior-0a48742b0/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%239400D3?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
